@@ -1,6 +1,7 @@
 .babelrc
-package-lock.json
 node_modules
+dist/
 eslint.config.mjs
 .prettierignore
 .prettierrc.json
+
